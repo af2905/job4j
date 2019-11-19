@@ -73,10 +73,11 @@ build
 .gradle
 *.pid
 
-.idea
+.idea/
 target
+.iml
 
 # IntellijIdea files
 *.iml
-.idea
+.idea/
 out
