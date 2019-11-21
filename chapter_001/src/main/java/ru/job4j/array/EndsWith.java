@@ -9,10 +9,9 @@ public class EndsWith {
             if (!(post[postIndex] == word[wordIndex])) {
                 result = false;
                 break;
-            } else result = true;
+            }
             wordIndex--;
         }
-
         return result;
     }
 }
